@@ -29,7 +29,7 @@ The project was originally built around two years ago and was recently refactore
 
 ## 📁 Project Structure
 
-
+```
 AI-Chatbot/
 │── main.py
 │── config.py
@@ -53,14 +53,14 @@ AI-Chatbot/
 ├── .env (create manually)
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ## ⚙️ Setup Instructions
-
+```
 1. Clone the repository:
 
-git clone <your-repo-link>
+git clone https://github.com/Umer-1707/Groq-AI-Chatbot.git
 cd AI-Chatbot
 
 2. Install dependencies:
@@ -74,7 +74,7 @@ GROQ_API_KEY=your_api_key_here
 4. Run the project:
 
 python main.py
-
+```
 
 ## ⚠️ Notes
 
