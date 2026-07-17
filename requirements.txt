@@ -1,0 +1,5 @@
+pyttsx3
+groq
+SpeechRecognition
+python-dotenv
+pyaudio
